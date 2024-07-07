@@ -8,6 +8,7 @@ use serenity::model::gateway::Ready;
 use serenity::prelude::*;
 use serenity::model::id::ChannelId;
 use serenity::model::gateway::GatewayIntents;
+use serenity::builder::{CreateEmbed, CreateMessage};
 use tokio::time::{interval, Duration};
 use dotenv::dotenv;
 use chrono::{Datelike, Local, Timelike, Weekday};
@@ -42,10 +43,15 @@ impl EventHandler for Handler {
                 let day = now.weekday();
                 let character = select_character(day);
 
-                if hour == 12 {
+                if hour == 4 {
                     if let Some((gif, quote)) = gif_and_quote(&json, &character) {
-                        let content = format!("{}\n{}", gif, quote);
-                        if let Err(why) = ChannelId::new(channel_id).say(&ctx.http, content).await {
+                        let channel_id = ChannelId::new(channel_id);
+                        let embed = CreateEmbed::new()
+                            .description(quote)
+                            .image(gif);
+                        let builder = CreateMessage::new().embed(embed);
+
+                        if let Err(why) = channel_id.send_message(&ctx.http, builder).await {
                             println!("Error sending message: {:?}", why);
                         }
                     }
