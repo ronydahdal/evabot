@@ -1,0 +1,76 @@
+{
+    "shinji": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259320517718970429/20240706_213000.gif?ex=668b4120&is=6689efa0&hm=a4f70903f569485215dd3cce32824034eaaeeb34a4e302788948a58babc6fd6e&=&width=1042&height=782",
+        "quotes": [
+            "Why don’t you just try smiling?",
+            "You betrayed me! You betrayed the trust I placed in you! You betrayed me just like my father did!",
+            "I hate myself. But, maybe, maybe I could love myself. Maybe, my life can have a greater value. That's right! I am no more or less than myself. I am me! I want to be myself! I want to continue existing in this world! My life is worth living here!",
+            "I mustn’t run away! I mustn’t run away! I mustn’t run away!",
+            "What's wrong with running away from reality if it sucks!?",
+            "I think this is different... from what I want."
+        ]
+    },
+    "asuka": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259318731193192449/20240706_212252.gif?ex=668b3f76&is=6689edf6&hm=71c234486879e1813294938d800cbd1ddb7594ced403e2e20dcf34304ce5dba6&=&width=994&height=620",
+        "quotes": [
+            "I won't rely on anyone!",
+            "We’re all just looking for someone to believe in.",
+            "IDIOT SHINJI!!!",
+            "I'm the genius pilot, the great Asuka Langley Soryu!",
+            "I don't wanna die, I don't wanna die, I don't wanna die...",
+            "I'll kill you. I'll kill you. I'll kill you."
+        ]
+    },
+    "misato": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259317240025714749/20240706_211647.gif?ex=668b3e13&is=6689ec93&hm=f8a4d4602cd810994ccfbc1ce193043c0ab5f3b504938e908e2c6cf26ab11150&=&width=960&height=654",
+        "quotes": [
+            "Well, he'll eventually learn that growing up means getting closer to people and distancing them, finding a distance where you can avoid hurting each other too much.",
+            "You hate yourself, don't you? That's why you hurt others. Deep down you know you suffer more when you cause someone else pain... than if you just let yourself get hurt. But Shinji, that was your decision, so it makes it a valid choice. That's what you wanted. So, that makes it worthwhile. Stop lying to yourself and realize that you do have options. Then... accept the choices you've made.",
+            "Sometimes you need a little wishful thinking just to keep on living.",
+            "Congratulations!",
+            "Acts of men are better than acts of God.",
+            "Pretending to be okay is exhausting."
+        ]
+    },
+    "rei": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259317680201138217/20240706_211843.gif?ex=668b3e7b&is=6689ecfb&hm=a117aea22a5f0740462873915761a50f9a1c61f0bd08ce863a7d3ea92b2359a2&=&width=1000&height=748",
+        "quotes": [
+            "Those who hate themselves cannot love or trust others.",
+            "I am neither false nor fake. I am simply me.",
+            "Man fears the darkness, and so he scrapes away at the edges of it with fire. He creates life by diminishing the Darkness.",
+            "You don’t want to be by yourself, correct? We are many but you are alone. You hate it don’t you?",
+            "Is this a tear? Am I the one crying?"
+        ]
+    },
+    "gendo": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259318435251355758/20240706_212142.gif?ex=668b3f2f&is=6689edaf&hm=bc35e9e9e736c9089f4d61c83755517d2e1b1c93c1865396a608fd9ddc697cb3&=&width=640&height=484",
+        "quotes": [
+            "If you’re going to do it, do it now! If not then leave!",
+            "I know. Mankind has no time left.",
+            "You, for example, are simply unused to what it is to be liked by others.",
+            "I didn't believe that anyone could love me. I never deserved to be loved."
+        ]
+    },
+    "kaji": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259318891285450752/20240706_212334.gif?ex=668b3f9c&is=6689ee1c&hm=4ac73b716762114c3a7d0b3e49866109a50ff351e6e3ce09b4981d68008a6729&=&width=1164&height=782",
+        "quotes": [
+            "If you know pain and hardship, it’s easier to be kind to others.",
+            "Understanding 100% of everything is impossible. That’s why we spend all our lives trying to understand the thinking of others. That’s what makes life so interesting.",
+            "Who's under who is not your concern. Would you prefer to be hit on?",
+            "Yo! Why don't we go on a date sometime?"
+        ]
+    },
+    "kaworu": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259319775650386001/20240706_212703.gif?ex=668b406f&is=6689eeef&hm=1870e953379debc5998e4ef515e74ba2b0c1099a9cda8f3eac9c1a03dd1aa0d2&=&width=978&height=782",
+        "quotes": [
+            "Man cannot erase this sadness, because all men are fundamentally alone.",
+            "You are worthy of my grace.",
+            "In other words, I love you.",
+            "Humans constantly feel pain in their hearts. Because the heart is so sensitive to pain, humans also feel that to live is to suffer. You're so delicate, like glass, especially your heart."
+        ]
+    },
+    "penpen": {
+        "gif": "https://media.discordapp.net/attachments/803058069873229875/1259321387349315694/image0.gif?ex=668b41ef&is=6689f06f&hm=de079cede2cca210e32ffd9073da295f5217dd7f61438ff2068c3a13a4e3d815&=&width=996&height=680",
+        "quotes": ["IT'S PEN PEN DAY"]
+    }
+}
